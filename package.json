@@ -1,0 +1,19 @@
+{
+  "name": "movie_database",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "go": "json-server app/bd.json --port 3002",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start -p 3003",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.2",
+    "json-server": "^1.0.0-beta.3",
+    "next": "14.1.0",
+    "react": "^18",
+    "react-dom": "^18"
+  }
+}

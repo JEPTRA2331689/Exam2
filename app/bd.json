@@ -1,0 +1,32 @@
+{
+  "films": [
+    {
+      "id": "1",
+      "title": "Avatar",
+      "description": "A paraplegic Marine dispatched to Pandora...",
+      "image": "https://image.cnbcfm.com/api/v1/image/105897632-1557241558937avatar-e1541360922907.jpg?v=1664130328&w=1920&h=1080",
+      "deleted": true
+    },
+    {
+      "id": "2",
+      "title": "The Dark Knight",
+      "description": "When the Joker wreaks havoc on Gotham...",
+      "image": "https://images.ladepeche.fr/api/v1/images/view/5c34d2f53e454659430d33a5/large/image.jpg",
+      "deleted": false
+    },
+    {
+      "id": "3",
+      "title": "Skyfall",
+      "description": "James Bond's loyalty to M is tested...",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTk4NTQ1Mzc1NV5BMl5BanBnXkFtZTgwODQ2NzA0NDE@._V1_.jpg",
+      "deleted": false
+    },
+    {
+      "id": "914f",
+      "title": "sss",
+      "description": "asasdsadasd",
+      "image": "https://images.unsplash.com/photo-1742943892627-f7e4ddf91224?q=80&w=2669&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "deleted": true
+    }
+  ]
+}
